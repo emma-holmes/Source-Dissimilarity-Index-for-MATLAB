@@ -28,7 +28,7 @@ For a visual explanation of the method, along with the formula for calculating t
 The code was written using MATLAB 2014b, although uses basic MATLAB functions that are compatible with older and newer versions of MATLAB. No additional toolboxes are required.
 
 ### Running the MATLAB script
-The MATLAB code is contained within the following file: SourceDissimilarityIndex.m
+The MATLAB code is contained within the following file: [SourceDissimilarityIndex.m](SourceDissimilarityIndex.m)
 
 The script takes two inputs: data1 and data2. The two inputs must have the same dimensions.
 
